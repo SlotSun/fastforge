@@ -10,7 +10,7 @@ dependencies:
   archive: ^3.6.1
   io: ^1.0.3
   liquid_engine: ^0.2.2
-  msix: ^3.16.6
+  msix: ^3.16.9
   mustache_template: ^2.0.0
   path: ^1.8.1
   pub_semver: ^2.1.0
