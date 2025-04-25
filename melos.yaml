@@ -1,5 +1,5 @@
 name: fastforge
-repository: https://github.com/fastforgedev/fastforge
+repository: https://github.com/SlotSun/fastforge
 
 packages:
   - apps/**
