@@ -1,6 +1,8 @@
-## 0.5.2
+## 0.6.0
 
-* Bumped `msix` dependency version to `3.16.9`
+* [FIX] Google Play Bundle is uploaded but the result is ignored (#261)
+* Better error if entity is not a file otherwise it looks like this: (#266)
+* feat: Support ohos platform.
 
 ## 0.5.1
 
